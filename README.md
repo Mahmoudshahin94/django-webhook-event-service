@@ -79,12 +79,12 @@ ALLOWED_HOSTS=localhost,127.0.0.1
 JWT_SECRET_KEY=your-jwt-secret-key
 
 # Google Sheets
-GOOGLE_SERVICE_ACCOUNT_FILE=credentials/django-gspread-integration-0c471d0387ea.json
+GOOGLE_SERVICE_ACCOUNT_FILE=secret-json-file
 
 # Slack
 SLACK_BOT_TOKEN=xoxb-your-bot-token
 SLACK_WEBHOOK_URL=https://hooks.slack.com/services/YOUR/WEBHOOK/URL
-SLACK_DM_USER_ID=U02AAG62RPH
+SLACK_DM_USER_ID=Slack-ID
 
 # GitHub
 GITHUB_TOKEN=your-github-token
